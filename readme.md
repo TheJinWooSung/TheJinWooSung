@@ -1,12 +1,12 @@
-Hey I'm Nexie
+# Hey, I'm Nexie
 
-Building bots, automation systems, APIs and web applications.
+Building Telegram bots, automation systems, APIs and web applications.
 
-Mostly working with Python, Telegram, backend services, databases and media systems.
+Mostly working with **Python**, **Telegram**, backend services, databases and media systems.
 
 ---
 
-About
+## About
 
 - Telegram bot development
 - Group management systems
@@ -16,35 +16,33 @@ About
 - Web applications
 - Database-backed automation
 - Deployment and infrastructure
-- Open-source experimentation
 
-I like taking existing systems, understanding how they work, and rebuilding them into cleaner and more maintainable projects.
+I enjoy taking existing systems, understanding how they work, and rebuilding them into cleaner, more maintainable projects.
 
 ---
 
-What I Build
+## What I Build
 
-Telegram
+### Telegram
 
 - Group management bots
-- Music bots
-- Voice-chat players
+- Music and voice-chat bots
 - File and media bots
-- Utility bots
-- Localization systems
+- Utility and automation bots
 - Inline interfaces
+- Localization systems
 - Queue and playback systems
 
-Backend
+### Backend
 
 - REST APIs
 - Async Python services
 - MongoDB-backed applications
 - Redis-based caching
 - Background workers
-- Authentication and configuration systems
+- Configuration and deployment systems
 
-Web
+### Web
 
 - Music interfaces
 - Media applications
@@ -54,58 +52,55 @@ Web
 
 ---
 
-Tech Stack
+## Tech Stack
 
-Languages
+### Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-"HTML" (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-"CSS" (https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Frameworks & Libraries
+### Frameworks & Libraries
 
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-"Pyrogram" (https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat)
-"Kurigram" (https://img.shields.io/badge/Kurigram-2CA5E0?style=flat)
-"PyTgCalls" (https://img.shields.io/badge/PyTgCalls-2CA5E0?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=flat-square)
+![Kurigram](https://img.shields.io/badge/Kurigram-2CA5E0?style=flat-square)
+![PyTgCalls](https://img.shields.io/badge/PyTgCalls-2CA5E0?style=flat-square)
 
-Databases & Infrastructure
+### Databases & Infrastructure
 
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-"Redis" (https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-Current Focus
-
-Telegram Bots
-     │
-     ├── Group Management
-     ├── Music & Voice Chat
-     ├── Media Tools
-     └── Automation
-     
-Backend
-     │
-     ├── FastAPI
-     ├── MongoDB
-     ├── Redis
-     └── Async Services
-
-Web
-     │
-     ├── Music
-     ├── Media
-     └── API Applications
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-Recent Development
+## Current Focus
 
-Recent development has heavily focused on production-style Telegram music infrastructure:
+**Telegram**
+- Group management
+- Music and voice chat
+- Media tools
+- Automation
+
+**Backend**
+- FastAPI
+- MongoDB
+- Redis
+- Async services
+
+**Web**
+- Music
+- Media
+- API applications
+
+---
+
+## Recent Development
+
+Current development has focused heavily on Telegram music infrastructure, including:
 
 - Stateful player architecture
 - Automatic next-track playback
@@ -120,30 +115,25 @@ Recent development has heavily focused on production-style Telegram music infras
 - Configuration hardening
 - Localization
 - Voice-client lifecycle handling
-- CI/import validation
+- CI and import validation
 - Docker validation
 - Startup and shutdown cleanup
 
 ---
 
-GitHub Activity
+## GitHub Activity
 
-Contributions
+[![GitHub Contribution Graph](https://ghchart.rshah.org/TheJinWooSung)](https://github.com/TheJinWooSung)
 
-"GitHub Contribution Graph" (https://ghchart.rshah.org/TheJinWooSung)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheJinWooSung&show_icons=true&hide_border=true&theme=transparent)
 
-GitHub Statistics
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=TheJinWooSung&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-Top Languages
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=TheJinWooSung&layout=compact&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJinWooSung&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
-Development Style
+## Development Style
 
+```text
 Build
   ↓
 Test
@@ -155,11 +145,12 @@ Fix
 Improve
   ↓
 Repeat
+```
 
 I prefer:
 
 - Simple interfaces
-- Small and focused modules
+- Small, focused modules
 - Clean configuration
 - Async-first implementations
 - Reusable components
@@ -170,21 +161,19 @@ I prefer:
 
 ---
 
-Repository Activity
+## Repository Activity
 
-The account currently contains 42 repositories across bot, backend, API, media and web projects.
+**42 repositories** are currently associated with the account.
 
-A large portion of the current work is private, so private repositories are intentionally not listed individually here.
-
-As projects become public, they can be added to the profile automatically or manually.
+Much of the active development is private, so private projects are intentionally not listed individually here.
 
 ---
 
-Commit Activity
+## Commit Activity
 
 I commit frequently while actively developing projects.
 
-Recent work includes individual commits for:
+Recent work includes:
 
 - Features
 - Refactors
@@ -197,28 +186,27 @@ Recent work includes individual commits for:
 - Performance improvements
 - Architecture changes
 
-The goal is not simply to increase commit counts, but to keep development history separated into understandable changes.
+The goal is not to inflate commit counts, but to keep development history organized around meaningful changes.
 
 ---
 
-Featured Areas
+## Featured Areas
 
-Area| Focus
-Telegram| Bots, automation and group management
-Music| Players, queues and voice chat
-Media| Downloading and processing
-Backend| APIs and async services
-Database| MongoDB and Redis
-Web| Music and media applications
-DevOps| Docker, CI/CD and deployment
+| Area | Focus |
+| --- | --- |
+| Telegram | Bots, automation and group management |
+| Music | Players, queues and voice chat |
+| Media | Downloading and processing |
+| Backend | APIs and async services |
+| Database | MongoDB and Redis |
+| Web | Music and media applications |
+| DevOps | Docker, CI/CD and deployment |
 
 ---
 
-GitHub
+## Find Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-TheJinWooSung-181717?style=flat&logo=github)" (https://github.com/TheJinWooSung)
-
-Profile: "github.com/TheJinWooSung"
+[![GitHub](https://img.shields.io/badge/GitHub-TheJinWooSung-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheJinWooSung)
 
 ---
 
