@@ -47,9 +47,3 @@ Most of my projects are **Telegram bots**, along with APIs and small web applica
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheJinWooSung&hide_border=true&bg_color=00000000&area=true" alt="GitHub activity">
 </p>
-
-<div align="center">
-
-<sub>Build • Ship • Improve</sub>
-
-</div>
