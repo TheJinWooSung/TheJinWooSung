@@ -1,0 +1,22 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#7c3aed"/>
+    <stop offset="0.5" stop-color="#06b6d4"/>
+    <stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="180" rx="18" fill="#0d1117"/>
+<g fill="none" stroke="url(#g)" opacity=".45">
+  <path d="M0 130 Q150 40 300 120 T600 90 T900 110"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 130 Q150 40 300 120 T600 90 T900 110;M0 110 Q150 150 300 70 T600 120 T900 80;M0 130 Q150 40 300 120 T600 90 T900 110"/></path>
+  <path d="M0 145 Q180 80 360 135 T720 100 T900 125" opacity=".5"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 145 Q180 80 360 135 T720 100 T900 125;M0 125 Q180 155 360 95 T720 135 T900 105;M0 145 Q180 80 360 135 T720 100 T900 125"/></path>
+</g>
+<g filter="url(#glow)">
+  <circle cx="120" cy="92" r="3" fill="#06b6d4"><animate attributeName="cx" values="120;780;120" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="760" cy="62" r="2.5" fill="#a78bfa"><animate attributeName="cy" values="62;118;62" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="430" cy="42" r="2" fill="#22d3ee"><animate attributeName="r" values="2;5;2" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+<text x="450" y="78" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="700">Python • JavaScript • FastAPI</text>
+<text x="450" y="112" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="17">building Telegram bots</text>
+</svg>
