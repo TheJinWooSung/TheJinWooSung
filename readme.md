@@ -32,7 +32,5 @@ Most of what I build revolves around **Telegram bots**, automation, APIs, and we
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheJinWooSung">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJinWooSung&hide_border=true&theme=transparent" alt="GitHub streak">
-  </a>
+  <img src="https://ghchart.rshah.org/TheJinWooSung" alt="GitHub contribution activity">
 </p>
