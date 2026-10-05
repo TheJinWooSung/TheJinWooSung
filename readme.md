@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/ykl5ws.jpg" width="180" alt="Profile">
 
-# TheJinWooSung
+# Hey I'm Nexie
 
 **Python • JavaScript • FastAPI**
 
